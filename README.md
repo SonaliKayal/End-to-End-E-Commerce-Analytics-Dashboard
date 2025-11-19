@@ -117,6 +117,23 @@ The report consists of the following major pages:
 - Return Percentage
 
 - Forecasted Revenue
+  
+Page 1:-
+
+<img width="1188" height="669" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/c4435d28-f4b3-4dd8-b455-3c8af2d52027" />
+
+Page 2:-
+
+<img width="1191" height="674" alt="MAP" src="https://github.com/user-attachments/assets/e403aaf6-601f-4ad6-a68d-854968854dba" />
+
+Page 3:-
+
+<img width="1199" height="676" alt="Product Details" src="https://github.com/user-attachments/assets/d5e46ec0-7706-42f8-a003-d2a61fe6bf1c" />
+
+Page 4:-
+
+<img width="1192" height="677" alt="Customer Details" src="https://github.com/user-attachments/assets/2e850eb6-5b4b-4af9-8855-f6ba753ca5d4" />
+
 
 📌 Key Insights
 
