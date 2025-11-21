@@ -89,9 +89,9 @@ The report consists of the following major pages:
 - Which categories and customer segments are most profitable?
 
 🛠️ Tools & Technologies Used
-  Tool	         Purpose
+  Tool	          Purpose
 - Power BI:-	    Dashboard building & visualization
-- Power Query:-  	Data cleaning and transformation
+- SSMS:-        	Data cleaning and transformation
 - DAX:-         	KPI calculations, forecasting, performance metrics
 - Excel / CSV:-	  Source data
 - Map Visuals:-	  Geospatial insights
