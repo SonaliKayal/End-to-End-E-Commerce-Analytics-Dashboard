@@ -25,7 +25,7 @@ The report consists of the following major pages:
 
 - Map View – Global order distribution visualized on a geographic map
 
-🎯 Key Features
+🎯 Key Features :
 1️⃣ Executive Dashboard
 
 - $24.9M total revenue
