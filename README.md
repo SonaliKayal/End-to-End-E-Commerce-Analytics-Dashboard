@@ -1,7 +1,7 @@
 # End-to-End-E-Commerce-Analytics-Dashboard
 This project presents a comprehensive E-Commerce Business Intelligence Dashboard built in Power BI, offering a 360° analytical view of revenue, customers, products, orders, and global sales distribution. The dashboard consolidates multiple insights, enabling executives and business teams to make precise, data-driven decisions.
 
-🚀 Project Overview :-
+🚀 Project Overview :
 
 The dashboard analyzes multi-year e-commerce sales data and delivers insights across:
 
@@ -40,7 +40,7 @@ The report consists of the following major pages:
 
 - Top 10 products breakdown
 
-2️⃣ Global Order Distribution (Map View)
+2️⃣ Global Order Distribution (Map View) :
 
 - Interactive geographic visualization
 
@@ -50,7 +50,7 @@ The report consists of the following major pages:
 
 - Bubble size represents order volume
 
-3️⃣ Product Details Dashboard
+3️⃣ Product Details Dashboard :
 
 - Product-specific KPIs: Orders, Revenue, Profit, Returns
 
@@ -60,7 +60,7 @@ The report consists of the following major pages:
 
 - Dynamic slicers for multi-metric selection
 
-4️⃣ Customer Insights
+4️⃣ Customer Insights:
 
 - 17.4K unique customers
 
